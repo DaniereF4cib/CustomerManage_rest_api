@@ -1,0 +1,6 @@
+com\customerManagement\Model\Customer.class
+com\customerManagement\Controller\CustomerController.class
+com\customerManagement\Controller\CustomerService.class
+com\customerManagement\Controller\CustomerRepository.class
+com\customerManagement\CustomerManagementApi.class
+com\customerManagement\Swagger\SwaggerConfig.class
